@@ -15,12 +15,14 @@
     "name": "Techiediaries",
     "email": "techiediaries9@gmail.com"
   },
-  "contributors" : [{
-    "username": "xavis",
-    "name": "Javier Sánchez",
-    "email": "xavi_hdlie@hotmail.com",
-    "site": "http://xaviscript.com"
-  }],
+  "contributors": [
+    {
+      "username": "xavis",
+      "name": "Javier Sánchez",
+      "email": "xavi_hdlie@hotmail.com",
+      "site": "http://xaviscript.com"
+    }
+  ],
   "keywords": [
     "angular"
   ],
