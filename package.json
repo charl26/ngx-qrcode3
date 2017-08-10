@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/techiediaries/ngx-qrcode"
+    "url": "https://github.com/xavis/ngx-qrcode"
   },
   "author": {
     "name": "Techiediaries",
@@ -18,7 +18,7 @@
   "contributors" : [{
     "username": "xavis",
     "name": "Javier Sánchez",
-    "email": "xavi_hdlie@@hotmail.com",
+    "email": "xavi_hdlie@hotmail.com",
     "site": "http://xaviscript.com"
   }],
   "keywords": [
