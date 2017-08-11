@@ -1,5 +1,5 @@
 {
-  "name": "ngx-qrcode2",
+  "name": "ngx-qrcode3",
   "version": "0.3.0",
   "scripts": {
     "build": "gulp build",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xavis/ngx-qrcode"
+    "url": "https://github.com/xavis/ngx-qrcode3"
   },
   "author": {
     "name": "Techiediaries",
@@ -17,8 +17,8 @@
   },
   "contributors": [
     {
-      "username": "xavis",
-      "name": "Javier Sánchez",
+      "username": "Xavis",
+      "name": "Javier Sánchez (@xavis)",
       "email": "xavi_hdlie@hotmail.com",
       "site": "http://xaviscript.com"
     }
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/techiediaries/ngx-qrcode/issues"
+    "url": "https://github.com/xavis/ngx-qrcode3/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",

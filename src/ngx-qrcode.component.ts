@@ -28,7 +28,7 @@ export class NgxQRCodeComponent implements OnChanges {
   }
   toDataURL(){
     return new Promise((resolve,reject)=>{
-      QRCode.toDataURL(this.value, { errorCorrectionLevel: 'H' } ,function (err, url) {
+      QRCode.toDataURL(this.value, { errorCorrectionLevel: this.correctionLevel, version: this.version } ,function (err, url) {
         if(err){
           console.error(err);
           reject(err);
