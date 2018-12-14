@@ -81,7 +81,7 @@ export class NgxQRCodeComponent implements OnChanges {
       case 'url':
       case 'img':
       default:
-        element = this.renderer.createElement('img');
+        element = this.renderer.createElement('ion-img');
         this.toDataURL().then((v : string)=>{
           console.log(v);
           element.setAttribute("src",v);
